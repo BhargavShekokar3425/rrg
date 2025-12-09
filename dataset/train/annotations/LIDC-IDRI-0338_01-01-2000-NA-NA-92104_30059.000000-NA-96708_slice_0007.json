@@ -1,0 +1,40 @@
+{
+  "image": "LIDC-IDRI-0338_01-01-2000-NA-NA-92104_30059.000000-NA-96708_slice_0007.png",
+  "mask": "LIDC-IDRI-0338_01-01-2000-NA-NA-92104_30059.000000-NA-96708_slice_0007_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "1",
+      "points": [
+        [
+          112,
+          336
+        ],
+        [
+          111,
+          336
+        ],
+        [
+          110,
+          337
+        ],
+        [
+          111,
+          338
+        ],
+        [
+          112,
+          337
+        ],
+        [
+          112,
+          336
+        ]
+      ],
+      "malignancy": "2",
+      "spiculation": "1",
+      "sphericity": "5",
+      "margin": "5",
+      "calcification": "6"
+    }
+  ]
+}

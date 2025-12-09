@@ -1,0 +1,94 @@
+{
+  "image": "LIDC-IDRI-0437_01-01-2000-NA-CHEST-35088_31028.000000-Recon 2 ACRIN LARGE-13632_slice_0046.png",
+  "mask": "LIDC-IDRI-0437_01-01-2000-NA-CHEST-35088_31028.000000-Recon 2 ACRIN LARGE-13632_slice_0046_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "59933",
+      "points": [
+        [
+          184,
+          339
+        ],
+        [
+          184,
+          338
+        ],
+        [
+          184,
+          337
+        ],
+        [
+          183,
+          337
+        ],
+        [
+          183,
+          338
+        ],
+        [
+          183,
+          339
+        ],
+        [
+          184,
+          339
+        ]
+      ],
+      "malignancy": "1",
+      "spiculation": "1",
+      "sphericity": "3",
+      "margin": "5",
+      "calcification": "3"
+    },
+    {
+      "nodule_id": "1",
+      "points": [
+        [
+          183,
+          339
+        ],
+        [
+          183,
+          338
+        ],
+        [
+          183,
+          337
+        ],
+        [
+          184,
+          337
+        ],
+        [
+          185,
+          336
+        ],
+        [
+          185,
+          337
+        ],
+        [
+          185,
+          338
+        ],
+        [
+          185,
+          339
+        ],
+        [
+          184,
+          339
+        ],
+        [
+          183,
+          339
+        ]
+      ],
+      "malignancy": "1",
+      "spiculation": "1",
+      "sphericity": "5",
+      "margin": "5",
+      "calcification": "3"
+    }
+  ]
+}

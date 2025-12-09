@@ -1,0 +1,52 @@
+{
+  "image": "LIDC-IDRI-0118_01-01-2000-NA-CT CHEST W CONT-82336_4.000000-Recon 3 CHEST-57528_slice_0029.png",
+  "mask": "LIDC-IDRI-0118_01-01-2000-NA-CT CHEST W CONT-82336_4.000000-Recon 3 CHEST-57528_slice_0029_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "124206",
+      "points": [
+        [
+          378,
+          246
+        ],
+        [
+          379,
+          245
+        ],
+        [
+          379,
+          244
+        ],
+        [
+          378,
+          243
+        ],
+        [
+          377,
+          243
+        ],
+        [
+          376,
+          244
+        ],
+        [
+          376,
+          245
+        ],
+        [
+          377,
+          246
+        ],
+        [
+          378,
+          246
+        ]
+      ],
+      "malignancy": "1",
+      "spiculation": "1",
+      "sphericity": "4",
+      "margin": "5",
+      "calcification": "3"
+    }
+  ]
+}

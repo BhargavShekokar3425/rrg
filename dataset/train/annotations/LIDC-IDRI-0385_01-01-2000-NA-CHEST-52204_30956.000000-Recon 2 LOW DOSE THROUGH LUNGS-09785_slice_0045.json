@@ -1,0 +1,52 @@
+{
+  "image": "LIDC-IDRI-0385_01-01-2000-NA-CHEST-52204_30956.000000-Recon 2 LOW DOSE THROUGH LUNGS-09785_slice_0045.png",
+  "mask": "LIDC-IDRI-0385_01-01-2000-NA-CHEST-52204_30956.000000-Recon 2 LOW DOSE THROUGH LUNGS-09785_slice_0045_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "57053",
+      "points": [
+        [
+          376,
+          343
+        ],
+        [
+          377,
+          342
+        ],
+        [
+          377,
+          341
+        ],
+        [
+          377,
+          340
+        ],
+        [
+          376,
+          340
+        ],
+        [
+          375,
+          341
+        ],
+        [
+          375,
+          342
+        ],
+        [
+          375,
+          343
+        ],
+        [
+          376,
+          343
+        ]
+      ],
+      "malignancy": "4",
+      "spiculation": "1",
+      "sphericity": "3",
+      "margin": "4",
+      "calcification": "6"
+    }
+  ]
+}

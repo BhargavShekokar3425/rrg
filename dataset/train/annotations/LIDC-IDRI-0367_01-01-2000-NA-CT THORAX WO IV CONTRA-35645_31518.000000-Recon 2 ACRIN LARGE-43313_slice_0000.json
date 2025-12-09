@@ -1,0 +1,76 @@
+{
+  "image": "LIDC-IDRI-0367_01-01-2000-NA-CT THORAX WO IV CONTRA-35645_31518.000000-Recon 2 ACRIN LARGE-43313_slice_0000.png",
+  "mask": "LIDC-IDRI-0367_01-01-2000-NA-CT THORAX WO IV CONTRA-35645_31518.000000-Recon 2 ACRIN LARGE-43313_slice_0000_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "167100",
+      "points": [
+        [
+          377,
+          337
+        ],
+        [
+          378,
+          336
+        ],
+        [
+          378,
+          335
+        ],
+        [
+          378,
+          334
+        ],
+        [
+          378,
+          333
+        ],
+        [
+          377,
+          332
+        ],
+        [
+          376,
+          332
+        ],
+        [
+          375,
+          332
+        ],
+        [
+          374,
+          333
+        ],
+        [
+          374,
+          334
+        ],
+        [
+          373,
+          335
+        ],
+        [
+          374,
+          336
+        ],
+        [
+          375,
+          337
+        ],
+        [
+          376,
+          337
+        ],
+        [
+          377,
+          337
+        ]
+      ],
+      "malignancy": "1",
+      "spiculation": "1",
+      "sphericity": "5",
+      "margin": "5",
+      "calcification": "3"
+    }
+  ]
+}

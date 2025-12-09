@@ -1,0 +1,56 @@
+{
+  "image": "LIDC-IDRI-0164_01-01-2000-NA-PE CHEST WITH-13972_2.000000-BOTTOM TO TOP-58588_slice_0076.png",
+  "mask": "LIDC-IDRI-0164_01-01-2000-NA-PE CHEST WITH-13972_2.000000-BOTTOM TO TOP-58588_slice_0076_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "135126",
+      "points": [
+        [
+          406,
+          274
+        ],
+        [
+          407,
+          273
+        ],
+        [
+          406,
+          272
+        ],
+        [
+          405,
+          271
+        ],
+        [
+          404,
+          271
+        ],
+        [
+          403,
+          272
+        ],
+        [
+          403,
+          273
+        ],
+        [
+          404,
+          274
+        ],
+        [
+          405,
+          274
+        ],
+        [
+          406,
+          274
+        ]
+      ],
+      "malignancy": "3",
+      "spiculation": "1",
+      "sphericity": "4",
+      "margin": "2",
+      "calcification": "6"
+    }
+  ]
+}

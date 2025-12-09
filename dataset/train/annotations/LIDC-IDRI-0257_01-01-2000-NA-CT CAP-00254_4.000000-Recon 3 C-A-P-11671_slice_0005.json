@@ -1,0 +1,44 @@
+{
+  "image": "LIDC-IDRI-0257_01-01-2000-NA-CT CAP-00254_4.000000-Recon 3 C-A-P-11671_slice_0005.png",
+  "mask": "LIDC-IDRI-0257_01-01-2000-NA-CT CAP-00254_4.000000-Recon 3 C-A-P-11671_slice_0005_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "161356",
+      "points": [
+        [
+          200,
+          342
+        ],
+        [
+          201,
+          341
+        ],
+        [
+          200,
+          340
+        ],
+        [
+          199,
+          340
+        ],
+        [
+          198,
+          341
+        ],
+        [
+          199,
+          342
+        ],
+        [
+          200,
+          342
+        ]
+      ],
+      "malignancy": "4",
+      "spiculation": "3",
+      "sphericity": "3",
+      "margin": "2",
+      "calcification": "6"
+    }
+  ]
+}

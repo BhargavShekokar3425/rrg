@@ -1,0 +1,60 @@
+{
+  "image": "LIDC-IDRI-0357_01-01-2000-NA-CT LUNG SCREEN-10448_NA-62394_slice_0003.png",
+  "mask": "LIDC-IDRI-0357_01-01-2000-NA-CT LUNG SCREEN-10448_NA-62394_slice_0003_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "Nodule 004",
+      "points": [
+        [
+          163,
+          335
+        ],
+        [
+          162,
+          336
+        ],
+        [
+          162,
+          337
+        ],
+        [
+          163,
+          338
+        ],
+        [
+          164,
+          338
+        ],
+        [
+          165,
+          338
+        ],
+        [
+          166,
+          337
+        ],
+        [
+          166,
+          336
+        ],
+        [
+          165,
+          335
+        ],
+        [
+          164,
+          335
+        ],
+        [
+          163,
+          335
+        ]
+      ],
+      "malignancy": "2",
+      "spiculation": "1",
+      "sphericity": "4",
+      "margin": "5",
+      "calcification": "6"
+    }
+  ]
+}

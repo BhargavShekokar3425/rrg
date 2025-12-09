@@ -1,0 +1,56 @@
+{
+  "image": "LIDC-IDRI-0220_01-01-2000-NA-CT ANGIO CHEST NON-CO-85747_2.000000-BOTTOM TO TOP-31764_slice_0010.png",
+  "mask": "LIDC-IDRI-0220_01-01-2000-NA-CT ANGIO CHEST NON-CO-85747_2.000000-BOTTOM TO TOP-31764_slice_0010_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "174287",
+      "points": [
+        [
+          363,
+          308
+        ],
+        [
+          364,
+          307
+        ],
+        [
+          364,
+          306
+        ],
+        [
+          363,
+          305
+        ],
+        [
+          362,
+          304
+        ],
+        [
+          361,
+          305
+        ],
+        [
+          361,
+          306
+        ],
+        [
+          361,
+          307
+        ],
+        [
+          362,
+          308
+        ],
+        [
+          363,
+          308
+        ]
+      ],
+      "malignancy": "3",
+      "spiculation": "3",
+      "sphericity": "3",
+      "margin": "4",
+      "calcification": "6"
+    }
+  ]
+}

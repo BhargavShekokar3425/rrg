@@ -1,0 +1,60 @@
+{
+  "image": "LIDC-IDRI-0200_01-01-2000-NA-CAP LYM PREPOST-54643_6.000000-Recon 3 C-A-P-08613_slice_0001.png",
+  "mask": "LIDC-IDRI-0200_01-01-2000-NA-CAP LYM PREPOST-54643_6.000000-Recon 3 C-A-P-08613_slice_0001_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "0",
+      "points": [
+        [
+          125,
+          191
+        ],
+        [
+          124,
+          192
+        ],
+        [
+          124,
+          193
+        ],
+        [
+          125,
+          193
+        ],
+        [
+          126,
+          194
+        ],
+        [
+          127,
+          194
+        ],
+        [
+          127,
+          193
+        ],
+        [
+          127,
+          192
+        ],
+        [
+          126,
+          192
+        ],
+        [
+          126,
+          191
+        ],
+        [
+          125,
+          191
+        ]
+      ],
+      "malignancy": "2",
+      "spiculation": "1",
+      "sphericity": "3",
+      "margin": "5",
+      "calcification": "6"
+    }
+  ]
+}

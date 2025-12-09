@@ -1,0 +1,68 @@
+{
+  "image": "LIDC-IDRI-0232_01-01-2000-NA-CT THORAX WCONTRAST-66650_3.000000-Recon 2 CHEST-95182_slice_0004.png",
+  "mask": "LIDC-IDRI-0232_01-01-2000-NA-CT THORAX WCONTRAST-66650_3.000000-Recon 2 CHEST-95182_slice_0004_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "168247",
+      "points": [
+        [
+          122,
+          319
+        ],
+        [
+          123,
+          318
+        ],
+        [
+          124,
+          317
+        ],
+        [
+          125,
+          316
+        ],
+        [
+          124,
+          315
+        ],
+        [
+          123,
+          314
+        ],
+        [
+          122,
+          313
+        ],
+        [
+          121,
+          314
+        ],
+        [
+          120,
+          315
+        ],
+        [
+          119,
+          316
+        ],
+        [
+          120,
+          317
+        ],
+        [
+          121,
+          318
+        ],
+        [
+          122,
+          319
+        ]
+      ],
+      "malignancy": "3",
+      "spiculation": "1",
+      "sphericity": "3",
+      "margin": "4",
+      "calcification": "6"
+    }
+  ]
+}

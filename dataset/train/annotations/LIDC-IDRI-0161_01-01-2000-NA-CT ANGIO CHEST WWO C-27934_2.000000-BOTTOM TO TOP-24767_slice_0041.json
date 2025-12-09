@@ -1,0 +1,72 @@
+{
+  "image": "LIDC-IDRI-0161_01-01-2000-NA-CT ANGIO CHEST WWO C-27934_2.000000-BOTTOM TO TOP-24767_slice_0041.png",
+  "mask": "LIDC-IDRI-0161_01-01-2000-NA-CT ANGIO CHEST WWO C-27934_2.000000-BOTTOM TO TOP-24767_slice_0041_mask.png",
+  "nodules": [
+    {
+      "nodule_id": "162643",
+      "points": [
+        [
+          165,
+          370
+        ],
+        [
+          166,
+          369
+        ],
+        [
+          167,
+          368
+        ],
+        [
+          167,
+          367
+        ],
+        [
+          167,
+          366
+        ],
+        [
+          166,
+          365
+        ],
+        [
+          165,
+          364
+        ],
+        [
+          164,
+          364
+        ],
+        [
+          163,
+          365
+        ],
+        [
+          162,
+          366
+        ],
+        [
+          162,
+          367
+        ],
+        [
+          163,
+          368
+        ],
+        [
+          164,
+          369
+        ],
+        [
+          165,
+          370
+        ]
+      ],
+      "malignancy": "3",
+      "spiculation": "2",
+      "sphericity": "3",
+      "margin": "4",
+      "calcification": "6"
+    }
+  ]
+}
